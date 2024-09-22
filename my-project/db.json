@@ -1,0 +1,342 @@
+{
+  "category": [
+    {
+      "id": "80c0",
+      "categoryname": "U&I",
+      "added_date": "2024-09-12"
+    },
+    {
+      "id": "3d5c",
+      "categoryname": "KDM",
+      "added_date": "2024-09-13"
+    },
+    {
+      "id": "5eb2",
+      "categoryname": "BOAT",
+      "added_date": "2024-09-14"
+    },
+    {
+      "id": "c3ef",
+      "categoryname": "ZEBRONICS",
+      "added_date": "2024-09-16"
+    }
+  ],
+  "subCategory": [
+    {
+      "id": "b6df",
+      "categoryname": "BOAT",
+      "subcategoryname": "Neckband",
+      "added_date": "2024-09-14"
+    },
+    {
+      "id": "b2d4",
+      "categoryname": "Noise",
+      "subcategoryname": "Buds",
+      "added_date": "2024-09-14"
+    },
+    {
+      "id": "7ddd",
+      "categoryname": "ZEBRONICS",
+      "subcategoryname": "Headphone",
+      "added_date": "2024-09-21"
+    }
+  ],
+  "product": [
+    {
+      "id": "e1bc",
+      "categoryname": "BOAT",
+      "subcategoryname": "HeadPhone",
+      "productname": "PFF SH-12 Wireless Bluetooth Over The Ear Headphone with Mic (Multicolour)",
+      "image": "https://m.media-amazon.com/images/I/61nPXx9w5bL._SY679_.jpg",
+      "oldprice": "14,990",
+      "offerprice": "13,990",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Built-in Battery: With high performance rechargeable polymer battery, this headphon e provides 8-10 hours of music time, less than 3 hours of charging time."
+    },
+    {
+      "id": "b7c8",
+      "categoryname": "KDM",
+      "subcategoryname": "HeadPhone",
+      "productname": "boAt Rockerz 425 Bluetooth Wireless Over Ear Headphones with Mic Signature Sound, Beast Mode for Gaming, Enx Tech, ASAP Charge, 25H Playtime, Bluetooth V5.2 (Active Black)",
+      "image": "https://m.media-amazon.com/images/I/61XvYOrqVeL._SX522_.jpg",
+      "oldprice": "2,999",
+      "offerprice": "1,499",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Low Latency- It’s time to up the game and switch to Rockerz 425 wireless headphones that comes equipped with our low latency BEAST Mode, the perfect set up for your gaming sessions."
+    },
+    {
+      "id": "a3db",
+      "categoryname": "Noise",
+      "subcategoryname": "HeadPhone",
+      "productname": "Wireless P9 Bluetooth 5.1 Over Ear Stereo Headphones - Noise Cancelling Mic, Ergonomic Adjustable Design, 24 Hours Battery Life, Hi-Fi Sound, Wireless Headset for Music & Calls (Black) (Black)",
+      "image": "https://m.media-amazon.com/images/I/51o6-QJ2ciL._SX522_.jpg",
+      "oldprice": "1,599",
+      "offerprice": "699",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Bluetooth 5.1 Technology: Enjoy seamless wireless connectivity with the latest Bluetooth 5.1 technology, ensuring faster pairing and stable connections with your devices."
+    },
+    {
+      "id": "e4ed",
+      "categoryname": "BOAT",
+      "subcategoryname": "HeadPhone",
+      "productname": "Troops TP-7040 Headphone with Extra BASS HIGH DEFINATION Sound, Specially Designed for Music LISNERS (Black)",
+      "image": "https://m.media-amazon.com/images/I/51w2vcNgN4L._SX522_.jpg",
+      "oldprice": "999",
+      "offerprice": "499",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Headphones offer premium comfort with pillow-soft ear cups. These dual colored headsets are bound to make sure you stand out in any crowd with a variety of stylish colors to choose from."
+    },
+    {
+      "id": "6ecb",
+      "categoryname": "BOAT",
+      "subcategoryname": "HeadPhone",
+      "productname": "Razer BlackShark V2 X - White | Multi-Platform Wired Esports On Ear Headset - RZ04-03240700-R3M1",
+      "image": "https://m.media-amazon.com/images/I/71mwmGYZGzL._SX679_.jpg",
+      "oldprice": "7,999",
+      "offerprice": "3,699",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Immersive, 7.1 Surround Sound for Positional Audio: Outfitted with custom-tuned 50 mm drivers, capable of software-enabled surround sound (only available on Windows 10 64-bit)"
+    },
+    {
+      "id": "1221",
+      "categoryname": "KDM",
+      "subcategoryname": "HeadPhone",
+      "productname": "Razer BlackShark V2 X USB Wired Esports Gaming Headset: 7.1 Surround Sound - 50mm Drivers - 240g Lightweight Build - Noise Cancelling Mic - Hybrid Memory Foam Cushions - Black-RZ04-04570100-R3M1",
+      "image": "https://m.media-amazon.com/images/I/61ARHuuiNuL._SX679_.jpg",
+      "oldprice": "8,999",
+      "offerprice": "3,899",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "HyperClear Noise-Cancelling Mic: Upgraded with noise-cancelling technology, the headset’s cardioid mic actively rejects ambient noise while capturing voice perfectly"
+    },
+    {
+      "id": "9533",
+      "categoryname": "BOAT",
+      "subcategoryname": "HeadPhone",
+      "productname": "Razer Kraken X Ultralight Gaming Headset: 7.1 Surround Sound - Lightweight Aluminum Frame - Bendable Cardioid Microphone - for PC, PS4, PS5, Switch, Xbox One, Xbox Series X|S, Mobile - Black/Blue",
+      "image": "https://m.media-amazon.com/images/I/51EafLX7lRL._SX679_.jpg",
+      "oldprice": "5,199",
+      "offerprice": "3,499",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Immersive, 7.1 Surround Sound for Positional Audio: Outfitted with custom-tuned 40 mm drivers, capable of software-enabled surround sound"
+    },
+    {
+      "id": "4aeb",
+      "categoryname": "U&I",
+      "subcategoryname": "HeadPhone",
+      "productname": "ZEBRONICS Havoc Premium Gaming Over Ear Headphone with Dolby Atmos Subscription, 50mm Neodymium Drivers, Extra Soft Ear Cushion, Suspension Headband,Braided Cable (Black)",
+      "image": "https://m.media-amazon.com/images/I/71Vxdi7aFnL._SX679_.jpg",
+      "oldprice": "2,999",
+      "offerprice": "1,999",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Enter the world of competitive gaming with the advanced ZEB-Havoc premium gaming headphones designed for the utmost comfort and excellent audio;The immersive sound quality of the headphones is owed to its Dolby Atmos subscription delivering an incredible audio experience"
+    },
+    {
+      "id": "8483",
+      "categoryname": "ZEBRONICS",
+      "subcategoryname": "HeadPhone",
+      "productname": "PunnkFunnk K20 Gaming Wired Over Ear Gaming Headphones with Mic, Compatible with Ps4, Xbox One, Nintendo Switch, Pc, Mac, Laptop, Black",
+      "image": "https://m.media-amazon.com/images/I/615vEi5y+yS._SX522_.jpg",
+      "oldprice": "3,999",
+      "offerprice": "1,020",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "【50MM Surround Sound Unit】 Big 50 mm audio drivers produce a complete, expansive sound for a more immersive gaming experience."
+    },
+    {
+      "id": "b9cd",
+      "categoryname": "ZEBRONICS",
+      "subcategoryname": "HeadPhone",
+      "productname": "FIFINE Gaming Headset, USB PC Headset with 3.5mm Audio Jack, 7.1 Surround Sound Over-Ear Wired Headset with Detachable Mic, Control Box, for PS5/PS4/Xbox/Switch, Black Color Gamer Headset-H9",
+      "image": "https://m.media-amazon.com/images/I/61osanP+BqL._SX679_.jpg",
+      "oldprice": "6,675",
+      "offerprice": "3,782",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "[Immerse in Soundscapes] 7.1 surround sound makes audio details come to life. The PS5 headset envelop you in a immersive gaming aura that transcends reality. 50mm driver reverberates every explosion, gunfire and environmental sound through your wired headset for PC. The streaming gaming headset pull you to get more achievement and improve the accuracy of FPS and ARPG."
+    },
+    {
+      "id": "6d4f",
+      "categoryname": "",
+      "subcategoryname": "Neckband",
+      "productname": "pTron Tangentbeat in-Ear Bluetooth 5.0 Wireless Headphones, Deep Bass, 18H Playtime, Clear Calls, Dual Device Pairing Wireless Neckband, Fast Type-C Charging, Voice Assistant & IPX4 (Green/Grey)",
+      "image": "https://m.media-amazon.com/images/I/51058gwH-VL._SX679_.jpg",
+      "oldprice": "2,499",
+      "offerprice": "499",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Lightweight In-Ear Wireless Neckband with 18 Hours of Playback-time on a single charge & Built-in HD Mic for Clear Call Quality."
+    },
+    {
+      "id": "de5e",
+      "categoryname": "",
+      "subcategoryname": "Neckband",
+      "productname": "Oneplus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life, IP55 Dust and Water Resistant (Magico Black)",
+      "image": "https://m.media-amazon.com/images/I/51UhwaQXCpL._SX522_.jpg",
+      "oldprice": "2,299",
+      "offerprice": "1,799",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "A quick 10-minute charge delivers up to 20 hours of immersive audio playback.; The flagship-level battery life delivers up to 30 hours of non-stop music on a single charge."
+    },
+    {
+      "id": "1ba5",
+      "categoryname": "",
+      "subcategoryname": "Neckband",
+      "productname": "realme Buds Wireless 3 Neo in Ear Bluetooth Neckband with 13.4 Mm Dynamic Bass Boost Driver,Upto 32 Hours Playback,Fast Charge, Ai Enc,45Ms Low Latency,Ip55 Dust&Water Resistannt&Bluetooth V 5.4,Blue",
+      "image": "https://m.media-amazon.com/images/I/61mgDd5Xl4L._SX522_.jpg",
+      "oldprice": "2,499",
+      "offerprice": "1,299",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "13.4mm Dynamic Bass Boost Driver | AI Environmental Noise Cancellation (AI ENC) for calls"
+    },
+    {
+      "id": "4e81",
+      "categoryname": "",
+      "subcategoryname": "Buds",
+      "productname": "Noise Newly Launched Buds N1 Pro in-Ear Truly Wireless Earbuds with Metallic Finish, ANC(Upto 32dB), 60H of Playtime, Dual Pairing, Instacharge(10 min=200 min), BT v5.3(Chrome Black)",
+      "image": "https://m.media-amazon.com/images/I/51JjCXkjBRL._SX679_.jpg",
+      "oldprice": "3,999",
+      "offerprice": "1,799",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "ANC (up to 32 dB) - Listen to your playlists just the way you like it—without any background disturbances."
+    },
+    {
+      "id": "f54a",
+      "categoryname": "",
+      "subcategoryname": "Buds",
+      "productname": "boAt Airdopes 141 Bluetooth Truly Wireless in Ear Ear Buds w/ 42H Playtime,Low Latency Mode for Gaming, ENx Tech, IWP, IPX4 Water Resistance, Smooth Touch Controls(Bold Black)",
+      "image": "https://m.media-amazon.com/images/I/71RFdy6y6LL._SX522_.jpg",
+      "oldprice": "1,999",
+      "offerprice": "1,299",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Playback- Enjoy an extended break on weekends with your favourite episodes on stream, virtue of a playback time of up to 42 hours including the 6 hours nonstop playtime for earbuds."
+    },
+    {
+      "id": "2f7e",
+      "categoryname": "",
+      "subcategoryname": "Buds",
+      "productname": "OnePlus Nord Buds 2 TWS in Ear Earbuds with Mic,Upto 25dB ANC 12.4mm Dynamic Titanium Drivers, Playback:Upto 36hr case, 4-Mic Design, IP55 Rating, Fast Charging [Thunder Gray]",
+      "image": "https://m.media-amazon.com/images/I/61-ZYvldY+L._SX522_.jpg",
+      "oldprice": "3,299",
+      "offerprice": "2,699",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "[ANC]: The OnePlus Nord Buds 2 has Up to 25dB Active Noise Cancellation bringing users the best sound experience by cancelling unwanted surrounding noise."
+    },
+    {
+      "id": "4087",
+      "categoryname": "",
+      "subcategoryname": "",
+      "productname": "Noise Buds N1 in-Ear Truly Wireless Earbuds with Chrome Finish, 40H of Playtime, Quad Mic with ENC, Ultra Low Latency(up to 40 ms), Instacharge(10 min=120 min), BT v5.3(Ice Blue)",
+      "image": "https://m.media-amazon.com/images/I/51-3rfCGrdL._SX522_.jpg",
+      "oldprice": "3,499",
+      "offerprice": "1,299",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "Up to 40-hour playtime: Dive into a marathon of music with an incredible 40-hour playtime."
+    },
+    {
+      "id": "2f84",
+      "categoryname": "",
+      "subcategoryname": "Buds",
+      "productname": "realme Buds T300 TWS in Ear Earbuds with 40H Play Time,30Db ANC, 360° Spatial Audio with Dolby Atmos, 12.4 Mm Dynamic Bass Boost Driver, Ip55 Water & Dust Resistant, Bt V5.3 (Stylish Black)",
+      "image": "https://m.media-amazon.com/images/I/61ZEQXGTepL._SX679_.jpg",
+      "oldprice": "3,999",
+      "offerprice": "2,999",
+      "qty": "1",
+      "added_date": "2024-09-14",
+      "descriptions": "12.4mm Dynamic Bass Driver;30dB Active Noise Cancellation"
+    }
+  ],
+  "productDetails": [],
+  "contacts": [
+    {
+      "id": "1e27",
+      "Name": "Parth Kavathiya",
+      "Number": "6354287550",
+      "Email": "pp7810559@gmail.com",
+      "Message": "Hello"
+    },
+    {
+      "id": "2d11",
+      "Name": "Rohit Sitapara",
+      "Number": "7600472916",
+      "Email": "rohit@gmail.com",
+      "Message": "Hello"
+    },
+    {
+      "id": "5e22",
+      "Name": "Ravi",
+      "Number": "9600892631",
+      "Email": "ravi@gmail.com",
+      "Message": "Hello"
+    }
+  ],
+  "cart": [
+    {
+      "id": "66c2",
+      "image": "https://m.media-amazon.com/images/I/61ZEQXGTepL._SX679_.jpg",
+      "productname": "realme Buds T300 TWS in Ear Earbuds with 40H Play Time,30Db ANC, 360° Spatial Audio with Dolby Atmos, 12.4 Mm Dynamic Bass Boost Driver, Ip55 Water & Dust Resistant, Bt V5.3 (Stylish Black)",
+      "oldprice": "3,999",
+      "offerprice1": "2,999",
+      "offerprice2": "2,999",
+      "qty": "1",
+      "descriptions": "12.4mm Dynamic Bass Driver;30dB Active Noise Cancellation"
+    },
+    {
+      "id": "096a",
+      "image": "https://m.media-amazon.com/images/I/61XvYOrqVeL._SX522_.jpg",
+      "productname": "boAt Rockerz 425 Bluetooth Wireless Over Ear Headphones with Mic Signature Sound, Beast Mode for Gaming, Enx Tech, ASAP Charge, 25H Playtime, Bluetooth V5.2 (Active Black)",
+      "oldprice": "2,999",
+      "offerprice1": "1,499",
+      "offerprice2": "1,499",
+      "qty": "1",
+      "descriptions": "Low Latency- It’s time to up the game and switch to Rockerz 425 wireless headphones that comes equipped with our low latency BEAST Mode, the perfect set up for your gaming sessions."
+    },
+    {
+      "id": "6b8e",
+      "image": "https://m.media-amazon.com/images/I/71Vxdi7aFnL._SX679_.jpg",
+      "productname": "ZEBRONICS Havoc Premium Gaming Over Ear Headphone with Dolby Atmos Subscription, 50mm Neodymium Drivers, Extra Soft Ear Cushion, Suspension Headband,Braided Cable (Black)",
+      "oldprice": "2,999",
+      "offerprice1": "1,999",
+      "offerprice2": "1,999",
+      "qty": "1",
+      "descriptions": "Enter the world of competitive gaming with the advanced ZEB-Havoc premium gaming headphones designed for the utmost comfort and excellent audio;The immersive sound quality of the headphones is owed to its Dolby Atmos subscription delivering an incredible audio experience"
+    },
+    {
+      "id": "a9a3",
+      "image": "https://m.media-amazon.com/images/I/51JjCXkjBRL._SX679_.jpg",
+      "productname": "Noise Newly Launched Buds N1 Pro in-Ear Truly Wireless Earbuds with Metallic Finish, ANC(Upto 32dB), 60H of Playtime, Dual Pairing, Instacharge(10 min=200 min), BT v5.3(Chrome Black)",
+      "oldprice": "3,999",
+      "offerprice1": "1,799",
+      "offerprice2": "1,799",
+      "qty": "1",
+      "descriptions": "ANC (up to 32 dB) - Listen to your playlists just the way you like it—without any background disturbances."
+    }
+  ],
+  "feedback": [],
+  "blog": [],
+  "checkout": [
+    {
+      "id": "8d25",
+      "Name": "jkdbv m",
+      "LastName": "jkdbv m",
+      "Number": "kjbdv ",
+      "Email": "lkkdnc@gmail.com",
+      "Address": "lkfnvlk, ",
+      "State": "",
+      "City": ""
+    }
+  ]
+}
